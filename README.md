@@ -3,7 +3,7 @@
 <h2></h2>
 
 <div align="center">
-  <img align="center" width="360" src="https://tenor.com/view/hacker-hacker-man-hacking-hackers-hack-gif-23864910"/>
+  <img align="center" width="360" src="https://tenor.com/view/programmer-cycle-programmer-cycle-life-programmer-life-gif-18995470"/>
 </div>
 <h3 align="center" color="red">Developing skills in</h3>
 <br>
