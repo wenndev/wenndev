@@ -1,9 +1,9 @@
-/*-‍💻🚀 Studying Analysis and Systems Development
+-‍👨‍💻🚀 Studying Analysis and Systems Development
 
 <h2></h2>
 
 <div align="center">
-  <img align="left" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> 
+  <img align="center" width="350" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> 
 </div>
 <h3 align="center" color="red">Developing skills in</h3>
 <br>
