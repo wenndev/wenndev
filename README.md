@@ -2,9 +2,7 @@
 
 <h2></h2>
 
-<div align="center">
-  <img align="center" width="600" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" /> 
-</div>
+
 <h3 align="center" color="red">Developing skills in</h3>
 <div align="center">
   <img align="center" alt="html5" height="26" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
