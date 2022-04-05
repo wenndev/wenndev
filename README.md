@@ -11,4 +11,9 @@
   <img align="center" alt="Js" height="38" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="git" height="38" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="38" width="45" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
-</div>
+</div> <br>
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/wendeloliveiradev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
