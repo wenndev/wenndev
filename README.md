@@ -12,9 +12,7 @@
   <img align="center" alt="git" height="38" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="github" height="38" width="45" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg">
   <br>
-   <p align="center"> 
+</div>
+ <p align="center"> 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
  </p>
-</div>
-
-
