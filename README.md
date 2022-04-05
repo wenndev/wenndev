@@ -1,4 +1,5 @@
--‍👨‍💻🚀 Studying Analysis and Systems Development
+-‍👨‍💻🚀 Estudando Análise e Desenvolvimento de Sistemas
+
 
 <h2></h2>
 
