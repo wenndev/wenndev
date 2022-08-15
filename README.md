@@ -1,4 +1,4 @@
--‍👨‍💻🚀 Estudando Análise e Desenvolvimento de Sistemas
+-‍👨‍💻 Estudando Análise e Desenvolvimento de Sistemas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
