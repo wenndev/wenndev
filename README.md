@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass" width="30" height="30"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass" width="50" height="50"/>
   </a>
 </p>
 <br>
