@@ -1,4 +1,4 @@
--‍👨‍💻 Estudando Análise e Desenvolvimento de Sistemas
+
 
 <p>
   <a href="https://skillicons.dev">
