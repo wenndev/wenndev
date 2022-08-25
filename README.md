@@ -1,9 +1,7 @@
 
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  </a>
+
 </p>
 <br>
 <div style="display: inline_block">
