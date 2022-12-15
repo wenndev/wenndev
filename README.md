@@ -13,4 +13,3 @@
  <a href = "https://www.linkedin.com/in/wendeloliveiradev/"> <img align="center" height="25" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-> Vercel **https://vercel.com/wenndev**
