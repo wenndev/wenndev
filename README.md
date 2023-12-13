@@ -6,6 +6,7 @@
    <img align="center" alt="CSS" height="30" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    <img align="center" alt="JAVASCRIPT" height="30" src="">
 </div>
+<br>
 <div style="display: inline_block">
    
  <a href = "mailto:delldev7@gmail.com"><img align="center" height="25" alt="Linkedin" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
