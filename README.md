@@ -40,4 +40,3 @@ Sou estudante de **Engenharia de Dados** e estou sempre em busca de novos desafi
 - Estudo de modelagem de dados e design de bancos de dados relacionais e não relacionais, como **MySQL** e **MongoDB**.
 
 
-✨ *Em constante aprendizado e sempre em busca de aprimorar minhas habilidades em Engenharia de Dados!*
