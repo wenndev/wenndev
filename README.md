@@ -13,7 +13,7 @@ Sou estudante de **Engenharia de Dados** e estou sempre em busca de novos desafi
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -37,6 +37,7 @@ Sou estudante de **Engenharia de Dados** e estou sempre em busca de novos desafi
 - Melhoria nas habilidades de **orquestração de workflows** com **Apache Airflow**.
 - Exploração de **Kafka** para sistemas de **streaming de dados** em tempo real.
 - Prática de **Docker** para contêinerização de ambientes de dados e automação de processos.
+- Estudo de modelagem de dados e design de bancos de dados relacionais e não relacionais, como **MySQL** e **MongoDB**.
 
 
 ✨ *Em constante aprendizado e sempre em busca de aprimorar minhas habilidades em Engenharia de Dados!*
