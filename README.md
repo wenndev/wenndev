@@ -21,7 +21,7 @@ Sou estudante de **Engenharia de Dados** e estou sempre em busca de novos desafi
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="apachekafka logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachespark/231F20" height="40" alt="apachekafka logo"  />
+  <img src="https://cdn.simpleicons.org/apachespark/231F20" height="40" alt="apachespark logo"  />
   <img width="12" />
    <img src="https://cdn.simpleicons.org/apacheairflow/231F20" height="40" alt="apachekafka logo"  />
   <img width="12" />
