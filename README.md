@@ -23,6 +23,8 @@ Sou estudante de **Engenharia de Dados** e estou sempre em busca de novos desafi
   <img width="12" />
    <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" alt="apacheairflow logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
@@ -36,5 +38,8 @@ Sou estudante de **Engenharia de Dados** e estou sempre em busca de novos desafi
 - Exploração de **Kafka** para sistemas de **streaming de dados** em tempo real.
 - Prática de **Docker** para contêinerização de ambientes de dados e automação de processos.
 - Estudo de modelagem de dados e design de bancos de dados relacionais e não relacionais, como **MySQL**, **PostgreSQL** e **MongoDB**.
+- Iniciando meus estudos em Cloud Computing com **AWS**, com foco em serviços voltados para dados.
+
+
 
 
