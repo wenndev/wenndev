@@ -35,6 +35,6 @@ Sou estudante de **Engenharia de Dados** e estou sempre em busca de novos desafi
 - Melhoria nas habilidades de **orquestração de workflows** com **Apache Airflow**.
 - Exploração de **Kafka** para sistemas de **streaming de dados** em tempo real.
 - Prática de **Docker** para contêinerização de ambientes de dados e automação de processos.
-- Estudo de modelagem de dados e design de bancos de dados relacionais e não relacionais, como **MySQL** e **MongoDB**.
+- Estudo de modelagem de dados e design de bancos de dados relacionais e não relacionais, como **MySQL**, **PostgreSQL** e **MongoDB**.
 
 
