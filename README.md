@@ -30,10 +30,6 @@ Sou estudante de **Engenharia de Dados** e estou sempre em busca de novos desafi
 
 
 
-
-###
-
-
 ## 🌱 O que Estou Aprendendo
 
 - Aperfeiçoamento em **Apache Spark** e **PySpark** para processamento distribuído.
