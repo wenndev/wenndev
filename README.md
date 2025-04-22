@@ -17,8 +17,6 @@ Sou estudante de **Engenharia de Dados** e estou sempre em busca de novos desafi
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="apachekafka logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="40" alt="apachespark logo"  />
   <img width="12" />
    <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" alt="apacheairflow logo"  />
@@ -35,7 +33,7 @@ Sou estudante de **Engenharia de Dados** e estou sempre em busca de novos desafi
 
 - Aperfeiçoamento em **Apache Spark** e **PySpark** para processamento distribuído.
 - Melhoria nas habilidades de **orquestração de workflows** com **Apache Airflow**.
-- Exploração de **Kafka** para sistemas de **streaming de dados** em tempo real.
+- Exploração do **dbt** para transformação de dados e automação de processos de ETL.
 - Prática de **Docker** para contêinerização de ambientes de dados e automação de processos.
 - Estudo de modelagem de dados e design de bancos de dados relacionais e não relacionais, como **MySQL**, **PostgreSQL** e **MongoDB**.
 - Iniciando meus estudos em Cloud Computing com **AWS**, com foco em serviços voltados para dados.
