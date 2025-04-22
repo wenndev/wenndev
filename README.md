@@ -8,23 +8,22 @@ Sou estudante de **Engenharia de Dados** e estou sempre em busca de novos desafi
 
 ## 🛠️ Atualmente, estou focado nas seguintes tecnologias:
 
- <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="40" alt="apachespark logo"  />
+  <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="40" alt="apachespark logo" />
   <img width="12" />
-   <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" alt="apacheairflow logo"  />
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" alt="apacheairflow logo" />
   <img width="12" />
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.simpleicons.org/dbt/FF694B" height="40" alt="dbt logo" />
 </div>
+
 
 ###
 
