@@ -21,7 +21,7 @@ Sou estudante de **Engenharia de Dados** e estou sempre em busca de novos desafi
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="40" alt="apacheairflow logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" alt="DBT Logo" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbt/dbt-original.svg" alt="DBT logo" width="60"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" width="100" />
   <img width="12" />
