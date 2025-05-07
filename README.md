@@ -4,7 +4,7 @@
 
 ## Sobre Mim
 
-Sou estudante de **Engenharia de Dados** e estou sempre em busca de novos desafios para aprimorar minhas habilidades no processamento e análise de dados em grande escala. Atualmente, estou focado no aprendizado e aplicação de tecnologias que ajudam a construir pipelines de dados eficientes e escaláveis.
+Estudante de **Engenharia de Dados** e estou sempre em busca de novos desafios para aprimorar minhas habilidades no processamento e análise de dados em grande escala. Atualmente, estou focado no aprendizado e aplicação de tecnologias que ajudam a construir pipelines de dados eficientes e escaláveis.
 
 ## 🛠️ Atualmente, estou focado nas seguintes tecnologias:
 
