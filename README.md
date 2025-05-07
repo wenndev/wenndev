@@ -36,7 +36,7 @@ Sou estudante de **Engenharia de Dados** e estou sempre em busca de novos desafi
 - Melhoria nas habilidades de **orquestração de workflows** com **Apache Airflow**.
 - Exploração do **dbt** para transformação de dados e automação de processos de ETL.
 - Prática de **Docker** para contêinerização de ambientes de dados e automação de processos.
-- Estudo de modelagem de dados e design de bancos de dados relacionais e não relacionais, como **MySQL**, **PostgreSQL** e **MongoDB**.
+- Estudo de modelagem de dados e design de bancos de dados relacionais e não relacionais, como **PostgreSQL** e **MongoDB**.
 - Iniciando meus estudos em Cloud Computing com **AWS**, com foco em serviços voltados para dados.
 
 
