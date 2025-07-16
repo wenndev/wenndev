@@ -39,7 +39,8 @@ Estudante de **Engenharia de Dados** e estou sempre em busca de novos desafios p
 - 📦 **Docker**: Contêineres para ambientes de dados reprodutíveis.
 - 🗄️ **PostgreSQL / MongoDB**: Modelagem relacional e não relacional.
 - ☁️ **AWS**: Fundamentos da nuvem, com foco em serviços voltados para dados.
-
+- 🐧 **Linux**: Automação e administração via linha de comando.
+- 🧬 **Git**: Versionamento de código e colaboração em projetos de dados.
 
 
 
