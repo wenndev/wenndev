@@ -4,7 +4,8 @@
 
 ## Sobre Mim
 
-Estudante de **Engenharia de Dados** e estou sempre em busca de novos desafios para aprimorar minhas habilidades no processamento e análise de dados em grande escala. Atualmente, estou focado no aprendizado e aplicação de tecnologias que ajudam a construir pipelines de dados eficientes e escaláveis.
+Sou Técnico em Informática e formado em Análise e Desenvolvimento de Sistemas. Atualmente, estou me especializando em Engenharia de Dados, com foco na construção de pipelines eficientes, orquestração de workflows e transformação de dados em larga escala.
+Tenho interesse em projetos que envolvam processamento distribuído, automação de pipelines, visualização de dados e computação em nuvem.
 
 ## 🛠️ Atualmente, estou focado nas seguintes tecnologias:
 
