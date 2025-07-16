@@ -31,14 +31,14 @@ Estudante de **Engenharia de Dados** e estou sempre em busca de novos desafios p
 
 
 
-## 🌱 O que Estou Aprendendo
+## 🌱 O que estou aprendendo atualmente
 
-- Aperfeiçoamento em **Apache Spark** e **PySpark** para processamento distribuído.
-- Melhoria nas habilidades de **orquestração de workflows** com **Apache Airflow**.
-- Exploração do **dbt** para transformação de dados e automação de processos de ETL.
-- Prática de **Docker** para contêinerização de ambientes de dados e automação de processos.
-- Estudo de modelagem de dados e design de bancos de dados relacionais e não relacionais, como **PostgreSQL** e **MongoDB**.
-- Iniciando meus estudos em Cloud Computing com **AWS**, com foco em serviços voltados para dados.
+- 🔥 **Apache Spark / PySpark**: Processamento distribuído de grandes volumes de dados.
+- 🛠️ **Apache Airflow**: Orquestração e automação de workflows de dados.
+- 🔄 **dbt (Data Build Tool)**: Transformação de dados com SQL modular e versionado.
+- 📦 **Docker**: Contêineres para ambientes de dados reprodutíveis.
+- 🗄️ **PostgreSQL / MongoDB**: Modelagem relacional e não relacional.
+- ☁️ **AWS**: Fundamentos da nuvem, com foco em serviços voltados para dados.
 
 
 
