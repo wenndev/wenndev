@@ -36,6 +36,6 @@ Tenho interesse em projetos que envolvam processamento distribuído, automação
 
   
   <a href="mailto:delldev7@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="50" height="50" alt="gmail logo" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt="gmail logo" />
 </a>
 </div>
