@@ -32,7 +32,8 @@ Tenho interesse em projetos que envolvam processamento distribuído, automação
 <div align="left">
   <a href="https://www.linkedin.com/in/wendeloliveiradev/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo" />
-  </a>
+  </a
+    
   <a href="mailto:delldev7@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo" />
   </a>
